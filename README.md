@@ -1,6 +1,6 @@
 # TestNotes
 
 Example Math Equation
-'''math
+```math
 \sqrt(x) = y
-'''
+```
