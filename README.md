@@ -28,4 +28,5 @@ Example Image from file inside directory
 
 
 A link to Another File
-[a relative link](Lecture_Notes/Week_1/Day_1.md)
+
+[Lecture 1](Lecture_Notes/Week_1/Day_1.md)
