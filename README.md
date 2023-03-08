@@ -2,5 +2,5 @@
 
 Example Math Equation
 ```math
-\sqrt(x) = y
+\sqrt{x} = y
 ```
