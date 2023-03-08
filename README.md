@@ -24,4 +24,4 @@ print(x)
 ```
 
 
-![alt text](https://github.com/SueHeir/TestNotes/blob/main/Images/image.jpg?raw=true)
+![alt text](https://github.com/SueHeir/TestNotes/blob/main/Images/t_force_vs_displacement.png?raw=true)
